@@ -1,2 +1,2 @@
 # vue2.chm
-vue2js.chm 文件参考
+vue2 离线文档参考
